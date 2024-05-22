@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 Assignment to implement a movie recommendation system from scratch without using major libraries or neural networks
 
-Extract files from the zip folders.
+Extract files from the zip folders (ml-latest is a large zip file, works only on ml-latest-small).
 
 ## Manual execution:
 ```bash

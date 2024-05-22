@@ -1,6 +1,8 @@
 # Movie-Recommendation-System
 Assignment to implement a movie recommendation system from scratch without using major libraries or neural networks
 
+Extract files from the zip folders.
+
 ## Manual execution:
 ```bash
 Python recommender.py -d DIRECTORY -n N -s METRIC -a ALGORITHM -i INPUT_ID
